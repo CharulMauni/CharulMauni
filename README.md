@@ -8,7 +8,15 @@ A passionate AI Developer from India
 📫 How to reach me: [Your Email]  
 ⚡ Fun fact: [Something Interesting About You]  
 
- 
+ <h3>📊 My Dashboards</h3>
+<table>
+  <tr>
+    <td><img src="https://your-dashboard-image-url1.png" width="300"></td>
+    <td><img src="https://your-dashboard-image-url2.png" width="300"></td>
+    <td><img src="https://your-dashboard-image-url3.png" width="300"></td>
+  </tr>
+</table>
+
  ### 🌐 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=40)](https://www.linkedin.com/in/yourusername/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=20)](https://github.com/yourusername) 
