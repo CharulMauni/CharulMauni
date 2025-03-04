@@ -1,5 +1,5 @@
 
-<h3>Hi 👋, I'm Charul Mauni</h3>
+<h3 text-align:centre>Hi 👋, I'm Charul Mauni</h3><br>
 <h2>A passionate AI Developer from India </h2>
 
 ### 🚀 About Me  
