@@ -1,7 +1,9 @@
 
-<h3>Hi 👋, I'm Charul Mauni</h3><hr>
-<h2>A passionate AI Developer from India </h2>
+<h1 align="center">Hi 👋, I'm Charul Mauni</h1>
+<h3 align="center">A passionate AI Developer from India</h3>
+<image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikchhimwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikchhimwal" /> </p>
 ### 🚀 About Me  
 🌱 I’m currently learning [Technology You're Learning]  
 💬 Ask me about [Your Expertise]  
@@ -18,12 +20,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=20)](https://www.instagram.com/yourusername/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&borderRadius=20)](https://www.facebook.com/yourusername/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charulmauni&layout=compact)  ![Charul's GitHub stats](https://github-readme-stats.vercel.app/api?username=charulmauni&show_icons=true&theme=radical)
+
 ### 🛠 Languages and Tools:  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+ 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+ 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
