@@ -1,6 +1,6 @@
-## Hi there 👋
-## Hi 👋, I'm [Your Name]  
-A passionate [Your Role] from [Your Country]  
+
+## Hi 👋, I'm Charul Mauni  
+A passionate AI Developer from India  
 
 ### 🚀 About Me  
 🌱 I’m currently learning [Technology You're Learning]  
