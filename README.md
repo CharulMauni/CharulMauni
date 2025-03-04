@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikchhimwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikchhimwal" /> </p>
 ### 🚀 About Me  
-🌱 I’m currently learning [Technology You're Learning]  
-💬 Ask me about [Your Expertise]  
-📫 How to reach me: [Your Email]  
-⚡ Fun fact: [Something Interesting About You]  
+- 🌱 I’m currently learning ****
+
+- 💬 Ask me about **LLM's, AI Agents**
+
+- 📫 How to reach me **charulmauni123@gmail.com**
 
 
 
