@@ -16,7 +16,7 @@ A passionate AI Developer from India
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=20)](https://www.instagram.com/yourusername/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&borderRadius=20)](https://www.facebook.com/yourusername/)
 
-![Charul's GitHub stats](https://github-readme-stats.vercel.app/api?username=charulmauni&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charulmauni&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charulmauni&layout=compact)  ![Charul's GitHub stats](https://github-readme-stats.vercel.app/api?username=charulmauni&show_icons=true&theme=radical)
 ### 🛠 Languages and Tools:  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
