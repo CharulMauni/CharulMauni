@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AI Developer from India</h3>
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikchhimwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritikchhimwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charulmauni&label=Profile%20views&color=0e75b6&style=flat" alt="charulmauni" /> </p>
 
 ### 🚀 About Me:
 
@@ -42,11 +42,11 @@
 
 
 ### 🐍 GitHub Activity:  
-![GitHub Snake Animation](https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/blob/output/github-contribution-grid-snake.svg)  
+![GitHub Snake Animation](https://github.com/charulmauni/charulmauni/blob/output/github-contribution-grid-snake.svg)  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikchhimwal/ritikchhimwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikchhimwal/ritikchhimwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritikchhimwal/ritikchhimwal/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charulmauni/charulmauni/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charulmauni/charulmauni/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/charulmauni/charulmauni/output/github-snake.svg" />
 </picture>
 
 <!--
